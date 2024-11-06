@@ -6,7 +6,7 @@ This project aims to predict the likelihood of a user purchasing a product based
 
 ## Table of Contents
 
-1.  [Dataset Used](#dataset-used
+1.  [Dataset Used](#dataset-used)
 2.  [Models Used](#models-used)
 3.  [Final Selected Model](#final-selected-model)
 4.  [Libraries Used](#libraries-used)
